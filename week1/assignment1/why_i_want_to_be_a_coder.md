@@ -1,0 +1,1 @@
+software engineering is a good job. Frankly it pays well and iam getting bored  of a standard routine life then i thought that technology is something that is evolving and changing.  
