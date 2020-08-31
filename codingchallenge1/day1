@@ -1,0 +1,22 @@
+GIT-Git is a version control system for tracking changes in source code.
+
+GIT CLONE-Git clone is a git command line which is used to clone an existing repository to local machine.
+
+GIT ADD.-It adds a change in the working directory to the staing area.
+
+GIT COMMIT -M -It takes a staged snapshot and commits it to the project history.
+
+GIT LOG-It used to review and read a history of everithing that happens to a repository.
+
+GIT STATUS-It showa the state of the working directory and the staging area.
+
+GIT RESET-It used to undo local changes.
+
+GIT DIFF-IT shows the difference between existing and new content.
+
+GIT PUSH- It pushes the repository from local machine to git hub.
+
+GIT PULL-It pulls the repository from git hub to local machine .
+
+GIT CHECKOUT-Command which navigates between the branches created by git branch.
+
